@@ -1,9 +1,3 @@
-[![Actions Status](https://github.com/renekorss/rkd-modal/workflows/build/badge.svg)](https://github.com/renekorss/rkd-modal/actions)
-[![npm version](https://badge.fury.io/js/rkd-modal.svg)](https://badge.fury.io/js/rkd-modal)
-[![npm](https://img.shields.io/npm/dt/rkd-modal.svg)](https://www.npmjs.com/package/rkd-modal)
-[![Known Vulnerabilities](https://snyk.io/test/github/renekorss/rkd-modal/badge.svg?targetFile=package.json)](https://snyk.io/test/github/renekorss/rkd-modal?targetFile=package.json)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
 # RKD Modal
 Plain content and AJAX supported modal.
 
@@ -11,9 +5,6 @@ Plain content and AJAX supported modal.
 
 `npm install rkd-modal`
 
-# How to use?
-
-See [example HTML](src/example/index.html) and [JSFiddle](https://jsfiddle.net/ReneKorss/m3vLr09u/).
 
 ## AJAX modal
 
@@ -108,6 +99,3 @@ It gets validated on every modal open, so you could change these settings whenev
 
 You can override any CSS (SCSS) you need to make it your own.
 
-# License
-
-[MIT](LICENSE)

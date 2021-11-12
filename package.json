@@ -8,10 +8,7 @@
     "test": "./node_modules/.bin/cypress open",
     "serve": "./node_modules/.bin/node-http-server"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/renekorss/rkd-modal.git"
-  },
+
   "keywords": [
     "modal",
     "popup",
@@ -20,12 +17,7 @@
     "modal popup",
     "ajax modal"
   ],
-  "author": "Rene Korss <rene.korss@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/renekorss/rkd-modal/issues"
-  },
-  "homepage": "https://github.com/renekorss/rkd-modal#readme",
+
   "devDependencies": {
     "bourbon": "^4.3.4",
     "bourbon-neat": "^3.0.1",
